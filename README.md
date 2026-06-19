@@ -20,3 +20,7 @@ Portafolio hecho con HTML, Tailwind CSS (CDN) y un poco de JavaScript, basado en
 ## Despliegue
 
 Publicado con GitHub Pages desde la rama `main`.
+
+## Plantilla
+
+Basado en una plantilla de TailwindFlex: https://tailwindflex.com/@nishant-trivedi/resume-template-for-tech-field
